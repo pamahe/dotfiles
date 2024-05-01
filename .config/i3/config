@@ -208,4 +208,4 @@ bar {
 }
 
 # Run mouse speed and screen position script
-exec_always --no-startup-id $HOME/.config/startup.sh
+exec_always --no-startup-id $HOME/.config/i3/startup.sh
